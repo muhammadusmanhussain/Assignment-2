@@ -1,0 +1,32 @@
+* {
+  font-family: serif;
+  text-align: center;
+}
+input {
+  height: 30px;
+  border-radius: 10px;
+}
+button {
+  height: 30px;
+  width: 80px;
+  margin-top: 5px;
+  background-color: rgb(202, 182, 182);
+  font-size: 20px;
+  border-radius: 3px;
+}
+.lik {
+  color: black;
+  font-size: bold;
+  padding-right: 10px;
+  text-decoration: none;
+  font-size: 22px;
+}
+.active {
+  color: blueviolet;
+}
+.nav {
+  background-color: rgb(202, 182, 182);
+  height: 33px;
+  text-align: right;
+  padding-top: 5px;
+}
